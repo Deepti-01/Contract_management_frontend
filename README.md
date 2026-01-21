@@ -36,3 +36,4 @@ A small assessment-ready React + TypeScript frontend for managing contract bluep
 - **Dashboard:** Table of contracts with status badges, updated timestamps, and actions to advance to the next valid state or revoke (when allowed). Filter contracts by status.
 - **Navigation:** Top-level buttons switch between Dashboard, Create Blueprint, and Create Contract pages.
 # Frontend_aasessment
+# contract_management_frontend

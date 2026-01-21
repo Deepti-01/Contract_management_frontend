@@ -35,3 +35,4 @@ A small assessment-ready React + TypeScript frontend for managing contract bluep
 - **Create Contract:** Pick a blueprint, name the contract, auto-generated fields appear. Edits auto-save; inputs disable when status is LOCKED or REVOKED. Signature shows as a placeholder box.
 - **Dashboard:** Table of contracts with status badges, updated timestamps, and actions to advance to the next valid state or revoke (when allowed). Filter contracts by status.
 - **Navigation:** Top-level buttons switch between Dashboard, Create Blueprint, and Create Contract pages.
+# Frontend_aasessment
